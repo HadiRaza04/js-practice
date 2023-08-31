@@ -7,6 +7,8 @@
 //console.log("1" + 2);     // 12
 //console.log(1 + 8 + "2")  // 92
 //console.log("2" + 5 + 7)  // 257
+//console.log(2 + 2 + 3)    // 7
 
 //console.log(Number(true));  // 1
 //console.log(+true);         // 1
+
